@@ -13,7 +13,7 @@ NodeJS-Typescript-Template is a robust and scalable template repository for buil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[your-username]/NodeJS-Typescript-Template.git <your project directory>
+   git clone https://github.com/Aman035/NodeJS-TypeScript-Template.git <your project directory>
    ```
 2. Navigate to the project directory:
    ```bash
